@@ -1,1 +1,1 @@
-This ia a simple calculato
+This ia a simple calculator
